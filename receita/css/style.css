@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background: #604706;
+}
+.row{
+    display: flex;
+    background:#FFF0C9;
+    margin: 65px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 15px 5px #cdcac5;
+}
+
+.presentación{
+text-align: center;  
+margin: 50px;
+width: 50%;
+
+}
+
+img{
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 10px 2px #604706;
+}
+
+figcaption{
+    padding: 20px;
+}
+
+.informaciones{
+    width: 50%;
+   
+    margin: 10px;
+}
+
+.receta{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.ingrediente{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.lista{
+    margin-top: 20px;
+    margin-left: 50px;
+}
